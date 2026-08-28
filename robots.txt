@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vlssy-technologies.pages.dev/sitemap.xml
